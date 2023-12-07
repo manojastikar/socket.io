@@ -18,6 +18,7 @@ function App() {
     });
   }, [socket]);
 
+  
   return (
     <div className="App">
       <input placeholder = "Message"
